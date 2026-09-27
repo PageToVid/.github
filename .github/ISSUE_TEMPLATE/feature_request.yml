@@ -1,0 +1,15 @@
+name: Feature request
+description: An idea to make PageToVid better.
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What are you trying to do?
+      description: The job, not the solution — what would a better PageToVid let you do?
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would help?

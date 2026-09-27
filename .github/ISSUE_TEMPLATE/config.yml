@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Documentation
+    url: https://pagetovid.github.io/docs/
+    about: Guides, the MCP tool reference and best practices.
+  - name: Security report
+    url: https://github.com/PageToVid/docs/security/advisories/new
+    about: Report a vulnerability privately — never in a public issue.

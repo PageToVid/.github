@@ -10,8 +10,6 @@
 
 </div>
 
-<img src="home-hero.png" alt="Paste a link, get a video" width="100%">
-
 PageToVid reads a page, writes the script, films the site in a real browser, records the voice-over
 and renders an MP4 with captions — or builds a film from a storyboard you write. Connect it to
 **Claude, Cursor, VS Code, Codex or Gemini CLI** over MCP and ask for a video in plain words:
